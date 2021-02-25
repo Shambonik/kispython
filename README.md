@@ -1,6 +1,6 @@
 # Программирование на языке Python
 
-Change
+Change the
 
 Лекция №1:
 [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/lect1.ipynb)
