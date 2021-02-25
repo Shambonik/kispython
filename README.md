@@ -1,6 +1,9 @@
 # Программирование на языке Python
 
+
 Лекции НЕ отменяются!!!
+Практические занятия не будут по расписанию
+`
 
 Лекция №1:
 [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/lect1.ipynb)
